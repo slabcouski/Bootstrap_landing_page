@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #000 !important;
+}
+.card:hover{
+    background-color: #6C757D !important;
+}
+.card:hover p{
+    color: #F8F9FA !important;
+}
+.btn-outline-info:hover i{
+    color: #F8F9FA !important;
+}
